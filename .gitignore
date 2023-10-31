@@ -1,3 +1,8 @@
+config.h
+st
+*.rej
+*.orig
+
 # Prerequisites
 *.d
 
